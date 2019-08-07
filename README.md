@@ -2,12 +2,13 @@
 ### Software for Automative Management ###
 
 ### Overview ###
-The purpose of this program is to retrieve a datasetID, retrieves all vehicles and dealers for that dataset, and successfully posts to the answer endpoint**only**.
+The purpose of this program is to retrieve a datasetID, retrieves all vehicles and dealers for that dataset, and successfully posts to the answer endpoint **only**.
 This program simulates a bridge that connects the database and other programs in the system by parsing the data from the database and return important information, and it can be further used for purposes such as displaying information on the UI, calculating statistics, improving efficiency and workflow.
 
 ### Prerequisites ###
 Note: Please use Python 3 to run this program. 
-      Please install the "requests" module in order to sucessfully submit/POST the answer       
+      Please install the "requests" module in order to sucessfully submit/POST the answer   
+
     pip3 install requests
 
 ### Getting Started ###
