@@ -1,5 +1,5 @@
 
-### Software for Automative Management ###
+### Software for Automotive Management ###
 
 ### Overview ###
 The purpose of this program is to retrieve a datasetID, retrieves all vehicles and dealers for that dataset, and successfully posts to the answer endpoint **only**.
